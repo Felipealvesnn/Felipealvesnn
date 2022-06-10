@@ -1,4 +1,6 @@
 ## Bem-vindo(a) ao perfil do Felipe 😁
+* desenvolvedor web   
+* 📚💻estudante de Análise e Desenvolvimento de Sistemas
   
   <div>
   <a href="https://github.com/Felipealvesnn">
