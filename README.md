@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Felipe 😁
-* desenvolvedor web   
+* 👨‍💻 C# Backend developer 
 * 📚💻estudante de Análise e Desenvolvimento de Sistemas
   
   <div>
