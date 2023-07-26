@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Felipe 😁
 * 👨‍💻 C# Backend developer 
-* 📚💻estudante de Análise e Desenvolvimento de Sistemas
+* 📚💻Sou um desenvolvedor   C# com experiência em SQL Server, Bootstrap, JavaScript, ASP.NET Framework MVC e jQuery, mas não fico preso somente a essas tecnologias, pois sou apaixonado por tecnologia e sempre busco aprender mais sobre as últimas tendências e ferramentas. Estou sempre disposto a enfrentar novos desafios e aprimorar minhas habilidades.
 * https://felipealvesnn.github.io/Portf-lio/
   
   <div>
