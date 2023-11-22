@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Felipe 😁
 * 👨‍💻 C# Backend developer 
-* 📚💻Sou um desenvolvedor  com experiência em Flutter, Getx, C#,SQL Server, Bootstrap, JavaScript, ASP.NET Framework MVC e jQuery. Sou apaixonado por tecnologia e sempre busco aprender mais sobre as últimas tendências e ferramentas. Estou sempre disposto a enfrentar novos desafios e aprimorar minhas habilidades.
+* 📚💻Sou um desenvolvedor  com experiência em Flutter, Getx, Dart, C#,SQL Server, Bootstrap, JavaScript, ASP.NET Framework MVC e jQuery. Sou apaixonado por tecnologia e sempre busco aprender mais sobre as últimas tendências e ferramentas. Estou sempre disposto a enfrentar novos desafios e aprimorar minhas habilidades.
 * https://felipealvesnn.github.io/Portf-lio/
   
   <div>
