@@ -1,14 +1,12 @@
-```markdown
 ## Bem-vindo(a) ao perfil do Felipe 😁
 * 👨‍💻 C# Backend developer 
-* 📚💻Sou um desenvolvedor com experiência em Flutter, Getx, Dart, C#, SQL Server, Bootstrap, JavaScript, ASP.NET Framework MVC e jQuery. Sou apaixonado por tecnologia e sempre busco aprender mais sobre as últimas tendências e ferramentas.
+* 📚💻Sou um desenvolvedor  com experiência em Flutter, Getx, Dart, C#,SQL Server, Bootstrap, JavaScript, ASP.NET Framework MVC e jQuery. Sou apaixonado por tecnologia e sempre busco aprender mais sobre as últimas tendências e ferramentas.
 * https://felipealvesnn.github.io/Portf-lio/
   
-<div>
+  <div>
   <a href="https://github.com/Felipealvesnn">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipealvesnn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipealvesnn&hide=scss,less&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipealvesnn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipealvesnn&hide=scss,less&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -20,14 +18,16 @@
   <img align="center" alt="Dart" height="30" width="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
 </div>
 
-<br>
  
-### Me siga nas redes abaixo!
+ <br>
+ 
+  ###  Me segue  nas redes abaixo!
  
 <div> 
-  <a href="mailto:felipe.alvesnn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  <a href = "mailto:felipe.alvesnn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipealvesnn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+ 
+  ![Snake animation](https://github.com/Felipealvesnn/Felipealvesnn/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/Felipealvesnn/Felipealvesnn/blob/output/github-contribution-grid-snake.svg)
-```
+</div>
