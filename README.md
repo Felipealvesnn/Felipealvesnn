@@ -31,37 +31,3 @@
 
 ![Snake animation](https://github.com/Felipealvesnn/Felipealvesnn/blob/output/github-contribution-grid-snake.svg)
 ```
-
-Verifique se a URL da imagem da cobra (`https://github.com/Felipealvesnn/Felipealvesnn/blob/output/github-contribution-grid-snake.svg`) está correta. Caso contrário, você pode precisar regenerar a animação ou verificar o script de geração da cobra para garantir que ele esteja funcionando corretamente.
-
-Para regenerar a animação, você pode usar um script GitHub Actions. Aqui está um exemplo de como você pode configurar isso no seu repositório:
-
-1. Crie um arquivo `.github/workflows/snake.yml` no seu repositório com o seguinte conteúdo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-      - name: Generate Snake Animation
-        uses: Platane/snk@v2.0.1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/github-contribution-grid-snake.svg
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A
-          git commit -m 'Generate snake animation'
-          git push
-```
